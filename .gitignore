@@ -173,3 +173,10 @@ de.sqlite3
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django  
+
+/migrations/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
